@@ -1,0 +1,5 @@
+* Notebook document FIPanalysis.ipynb is used to generate default charts analysis of Feline Infectious Peritonitis (FIP)
+** Based on data in catdata.csv
+** catdata.csv was created based on catjournalarticle.pdf
+
+* Notebook document MedAnalysis.ipynb is used to generate charts based on PetMetrics app exported database data in https://github.com/Lewisjp/petmetrics/blob/master/public/outgoing/allrecords.csv
